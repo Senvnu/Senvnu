@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Senvnu
+- 👋 Hi, I’m Sydney Senanu Kodjo Jones
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m an entry-level Data Analyst
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me jsydney46@gmail.com
 
